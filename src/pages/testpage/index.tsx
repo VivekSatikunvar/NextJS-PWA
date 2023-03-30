@@ -63,7 +63,7 @@ export default function TestPage() {
           <a
             href="/"
             className={styles.card}
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
@@ -75,7 +75,7 @@ export default function TestPage() {
           <a
             href="/"
             className={styles.card}
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
@@ -87,7 +87,7 @@ export default function TestPage() {
           <a
             href="/"
             className={styles.card}
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
@@ -99,7 +99,7 @@ export default function TestPage() {
           <a
             href="/"
             className={styles.card}
-            target="_blank"
+            // target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
