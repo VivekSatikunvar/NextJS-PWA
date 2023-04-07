@@ -5,7 +5,7 @@ import styles from "@/styles/Home.module.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export default function TestPage() {
+export default function PreCachedPage() {
   return (
     <>
       <Head>
@@ -70,18 +70,6 @@ export default function TestPage() {
               Docs <span>-&gt;</span>
             </h2>
             <p className={inter.className}>Go to HomePage</p>
-          </a>
-
-          <a
-            href="/precachedpage"
-            className={styles.card}
-            // target="_blank"
-            rel="noopener noreferrer"
-          >
-            <h2 className={inter.className}>
-              Learn <span>-&gt;</span>
-            </h2>
-            <p className={inter.className}>Go To Pre Cached Page</p>
           </a>
         </div>
       </main>
